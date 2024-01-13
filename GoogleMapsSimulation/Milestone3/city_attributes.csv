@@ -1,0 +1,8 @@
+City,State,Distance,Gallons,Weather,Latitude,Longitude
+detroit,michigan,0.0,0.0,cloudy,42.3834,83.1024
+toledo,ohio,59.0,1.63,cloudy,41.6639,83.5822
+cleveland,ohio,114.0,3.11,lightrain,41.4767,81.6804
+erie,pennsylvania,103.0,2.79,cloudy,42.1168,80.0733
+statecollege,pennsylvania,176.0,4.68,mostlycloudy,40.7934,77.86
+allentown,pennsylvania,165.0,4.34,fair,40.5961,75.4756
+newyorkcity,newyork,91.1,2.42,partlycloudy,40.6943,73.9249

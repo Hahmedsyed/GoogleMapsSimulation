@@ -1,0 +1,800 @@
+State_Origin,State_Destination,City_Origin,City_Destination,Distance,Speed,Sea_Level_Diff,Sea_Level_Diff_Miles,Sea_Level_Gradient
+Florida,Florida,Key West,Miami,164,46.86,102,0.019318188,0.000117794
+Florida,Florida,Key West,Fort Lauderdale,189,48.46,-20,-0.00378788,-2.00E-05
+Florida,Florida,Key West,Orlando,393,58.66,49,0.009280306,2.36E-05
+Florida,Florida,Key West,Tampa,426,60.71,42,0.007954548,1.87E-05
+Florida,Florida,Key West,Jacksonville,503,60.97,162,0.030681828,6.10E-05
+Florida,Florida,Miami,Key West,160,39.02,-102,-0.019318188,-0.000120739
+Florida,Florida,Miami,Fort Lauderdale,28.6,23.51,-122,-0.023106068,-0.000807904
+Florida,Florida,Miami,Orlando,236,58.03,-53,-0.010037882,-4.25E-05
+Florida,Florida,Miami,Tampa,282,61.08,-60,-0.01136364,-4.03E-05
+Florida,Florida,Miami,Jacksonville,346,61.6,60,0.01136364,3.28E-05
+Florida,Florida,Fort Lauderdale,Key West,194,47.51,20,0.00378788,1.95E-05
+Florida,Florida,Fort Lauderdale,Miami,28.6,31.78,122,0.023106068,0.000807904
+Florida,Florida,Fort Lauderdale,Orlando,213,68.14,69,0.013068186,6.14E-05
+Florida,Florida,Fort Lauderdale,Tampa,264,65.45,62,0.011742428,4.45E-05
+Florida,Florida,Fort Lauderdale,Jacksonville,324,63.12,182,0.034469708,0.000106388
+Florida,Florida,Orlando,Key West,392,61.09,-49,-0.009280306,-2.37E-05
+Florida,Florida,Orlando,Miami,235,68.78,53,0.010037882,4.27E-05
+Florida,Florida,Orlando,Fort Lauderdale,212,68.39,-69,-0.013068186,-6.16E-05
+Florida,Florida,Orlando,Tampa,95.7,54.69,-7,-0.001325758,-1.39E-05
+Florida,Florida,Orlando,Jacksonville,141,64.09,113,0.021401522,0.000151784
+Florida,Florida,Tampa,Key West,425,62.5,-42,-0.007954548,-1.87E-05
+Florida,Florida,Tampa,Miami,280,69.71,60,0.01136364,4.06E-05
+Florida,Florida,Tampa,Fort Lauderdale,263,70.45,-62,-0.011742428,-4.46E-05
+Florida,Florida,Tampa,Orlando,84.2,50.52,7,0.001325758,1.57E-05
+Florida,Florida,Tampa,Jacksonville,199,62.19,120,0.02272728,0.000114207
+Florida,Florida,Jacksonville,Key West,503,63.14,-162,-0.030681828,-6.10E-05
+Florida,Florida,Jacksonville,Miami,346,69.66,-60,-0.01136364,-3.28E-05
+Florida,Florida,Jacksonville,Fort Lauderdale,326,70.61,-182,-0.034469708,-0.000105735
+Florida,Florida,Jacksonville,Orlando,141,65.63,-113,-0.021401522,-0.000151784
+Florida,Florida,Jacksonville,Tampa,200,62.83,-120,-0.02272728,-0.000113636
+Massachusetts,Massachusetts,Pepperell,Fitchburg,15.4,31.86,-104.98,-0.019882582,-0.001291077
+Massachusetts,Massachusetts,Pepperell,Leominster,16.8,31.5,-75.46,-0.014291671,-0.000850695
+Massachusetts,Massachusetts,Pepperell,Amherst,68.2,47.03,160.77,0.030448873,0.000446464
+Massachusetts,Massachusetts,Pepperell,Chicopee,91.8,57.37,196.86,0.037284103,0.000406145
+Massachusetts,Massachusetts,Pepperell,West Springfield,94,55.84,157.48,0.029825767,0.000317295
+Massachusetts,Massachusetts,Fitchburg,Pepperell,15.4,33,104.98,0.019882582,0.001291077
+Massachusetts,Massachusetts,Fitchburg,Leominster,5.2,22.28,29.52,0.005590911,0.001075175
+Massachusetts,Massachusetts,Fitchburg,Amherst,50.2,47.06,265.75,0.050331456,0.001002619
+Massachusetts,Massachusetts,Fitchburg,Chicopee,78.5,50.1,301.83,0.057164791,0.000728214
+Massachusetts,Massachusetts,Fitchburg,West Springfield,80.7,56.96,262.46,0.049708349,0.000615965
+Massachusetts,Massachusetts,Leominster,Pepperell,16.3,30.56,75.46,0.014291671,0.00087679
+Massachusetts,Massachusetts,Leominster,Fitchburg,5.2,22.28,-29.52,-0.005590911,-0.001075175
+Massachusetts,Massachusetts,Leominster,Amherst,51.1,47.16,236.23,0.044740545,0.000875549
+Massachusetts,Massachusetts,Leominster,Chicopee,73.7,58.96,272.31,0.05157388,0.000699781
+Massachusetts,Massachusetts,Leominster,West Springfield,75.8,58.3,232.94,0.044117438,0.000582024
+Massachusetts,Massachusetts,Amherst,Pepperell,69.3,47.79,-160.77,-0.030448873,-0.000439378
+Massachusetts,Massachusetts,Amherst,Fitchburg,49.1,46.03,-265.75,-0.050331456,-0.001025081
+Massachusetts,Massachusetts,Amherst,Leominster,50.8,46.18,-236.23,-0.044740545,-0.000880719
+Massachusetts,Massachusetts,Amherst,Chicopee,17.5,32.81,36.08,0.006833336,0.000390476
+Massachusetts,Massachusetts,Amherst,West Springfield,23.91,42.17,-3.29,-0.000623106,-2.61E-05
+Massachusetts,Massachusetts,Chicopee,Pepperell,88.7,56.02,-196.85,-0.037282209,-0.000420318
+Massachusetts,Massachusetts,Chicopee,Fitchburg,77.7,58.27,-301.83,-0.057164791,-0.000735712
+Massachusetts,Massachusetts,Chicopee,Leominster,73.7,58.96,-272.31,-0.05157388,-0.000699781
+Massachusetts,Massachusetts,Chicopee,Amherst,17.6,33,-36.08,-0.006833336,-0.000388258
+Massachusetts,Massachusetts,Chicopee,West Springfield,4.9,29.4,-39.37,-0.007456442,-0.001521723
+Massachusetts,Massachusetts,West Springfield,Pepperell,90.8,55.59,-157.48,-0.029825767,-0.000328478
+Massachusetts,Massachusetts,West Springfield,Fitchburg,79.71,57.61,-262.46,-0.049708349,-0.000623615
+Massachusetts,Massachusetts,West Springfield,Leominster,75.81,58.3,-232.94,-0.044117438,-0.000581947
+Massachusetts,Massachusetts,West Springfield,Amherst,24.61,42.17,3.29,0.000623106,2.53E-05
+Massachusetts,Massachusetts,West Springfield,Chicopee,4.91,29.4,39.37,0.007456442,0.001518624
+New York,New York,Rochester,Syracuse,86,63.7,-31,-0.005871214,-6.83E-05
+New York,New York,Rochester,Cooperstown,173,62.23,-844,-0.159848536,-0.00092398
+New York,New York,Rochester,Buffalo,74,61.67,-242,-0.045833348,-0.00061937
+New York,New York,Rochester,New York City,313,58.5,305,0.05776517,0.000184553
+New York,New York,Rochester,Troy,230,49.25,299,0.056628806,0.000246212
+New York,New York,Syracuse,Rochester,86,54.43,31,0.005871214,6.83E-05
+New York,New York,Syracuse,Cooperstown,93,57.41,-813,-0.153977322,-0.00165567
+New York,New York,Syracuse,Buffalo,149,65.35,-211,-0.039962134,-0.000268202
+New York,New York,Syracuse,New York City,193,48.25,336,0.063636384,0.000329722
+New York,New York,Syracuse,Troy,76,33.04,330,0.06250002,0.000822369
+New York,New York,Cooperstown,Rochester,174,61.7,844,0.159848536,0.00091867
+New York,New York,Cooperstown,Syracuse,79,45.93,813,0.153977322,0.00194908
+New York,New York,Cooperstown,Buffalo,237,62.86,602,0.114015188,0.000481077
+New York,New York,Cooperstown,New York City,193,50.79,1149,0.217613706,0.001127532
+New York,New York,Cooperstown,Troy,76,47.5,1143,0.216477342,0.002848386
+New York,New York,Buffalo,Rochester,77,64.17,242,0.045833348,0.000595238
+New York,New York,Buffalo,Syracuse,152,65.24,211,0.039962134,0.000262909
+New York,New York,Buffalo,Cooperstown,237,62.7,-602,-0.114015188,-0.000481077
+New York,New York,Buffalo,New York City,373,61.15,547,0.103598518,0.000277744
+New York,New York,Buffalo,Troy,294,65.33,541,0.102462154,0.000348511
+New York,New York,New York City,Rochester,333,63.07,-305,-0.05776517,-0.000173469
+New York,New York,New York City,Syracuse,247,61.75,-336,-0.063636384,-0.000257637
+New York,New York,New York City,Cooperstown,199,52.09,-1149,-0.217613706,-0.001093536
+New York,New York,New York City,Buffalo,373,60.65,-547,-0.103598518,-0.000277744
+New York,New York,New York City,Troy,159,58.24,-6,-0.001136364,-7.15E-06
+New York,New York,Troy,Rochester,230,65.16,-299,-0.056628806,-0.000246212
+New York,New York,Troy,Syracuse,149,64.22,-330,-0.06250002,-0.000419463
+New York,New York,Troy,Cooperstown,76,48.1,-1143,-0.216477342,-0.002848386
+New York,New York,Troy,New York City,293,65.11,-541,-0.102462154,-0.0003497
+New York,New York,Troy,Buffalo,157,67.38,6,0.001136364,7.24E-06
+Vermont,Vermont,Burlington,St Albans City,28.6,53.62,90.25,0.017092809,0.000597651
+Vermont,Vermont,Burlington,Winooski,2.5,16.6,40.5,0.007670457,0.003068183
+Vermont,Vermont,Burlington,Barre,45,56.25,-815,-0.15435611,-0.003430136
+Vermont,Vermont,Burlington,Montpelier,38.8,58.2,-340,-0.06439396,-0.001659638
+Vermont,Vermont,Burlington,Rutland,66.6,41.19,-440,-0.08333336,-0.001251252
+Vermont,Vermont,St Albans City,Burlington,28.2,51.27,-90,-0.01704546,-0.000604449
+Vermont,Vermont,St Albans City,Winooski,25.3,54.21,-50,-0.0094697,-0.000374296
+Vermont,Vermont,St Albans City,Barre,27.7,57.31,-905,-0.17140157,-0.006187782
+Vermont,Vermont,St Albans City,Montpelier,64.2,58.25,-430,-0.08143942,-0.001268527
+Vermont,Vermont,St Albans City,Rutland,93.9,47.7,-530,-0.10037882,-0.001068997
+Vermont,Vermont,Winooski,Burlington,2.1,15.75,-40,-0.00757576,-0.003607505
+Vermont,Vermont,Winooski,St Albans City,25.3,51.27,50,0.0094697,0.000374296
+Vermont,Vermont,Winooski,Barre,3.4,25.5,-855,-0.16193187,-0.047627021
+Vermont,Vermont,Winooski,Montpelier,39.9,59.8,-380,-0.07196972,-0.001803752
+Vermont,Vermont,Winooski,Rutland,69.9,44.9,-480,-0.09090912,-0.00130056
+Vermont,Vermont,Montpelier,Burlington,38.9,55.57,340,0.06439396,0.001655372
+Vermont,Vermont,Montpelier,St Albans City,63.9,64.98,430,0.08143942,0.001274482
+Vermont,Vermont,Montpelier,Winooski,39.5,62.36,380,0.07196972,0.001822018
+Vermont,Vermont,Montpelier,Barre,7.2,27,-475,-0.08996215,-0.012494743
+Vermont,Vermont,Montpelier,Rutland,66.8,53.44,-100,-0.0189394,-0.000283524
+Vermont,Vermont,Rutland,Burlington,66.6,41.19,440,0.08333336,0.001251252
+Vermont,Vermont,Rutland,St Albans City,94,49.04,530,0.10037882,0.00106786
+Vermont,Vermont,Rutland,Winooski,69.5,45.32,480,0.09090912,0.001308045
+Vermont,Vermont,Rutland,Barre,64.5,52.29,-375,-0.07102275,-0.001101128
+Vermont,Vermont,Rutland,Montpelier,66.8,55,100,0.0189394,0.000283524
+Vermont,Vermont,Barre,Burlington,45,56.25,815,0.15435611,0.003430136
+Vermont,Vermont,Barre,St Albans City,27.7,57.32,905,0.17140157,0.006187782
+Vermont,Vermont,Barre,Winooski,3.4,27,855,0.16193187,0.047627021
+Vermont,Vermont,Barre,Montpelier,7.2,27,475,0.08996215,0.012494743
+Vermont,Vermont,Barre,Rutland,64.5,52.29,375,0.07102275,0.001101128
+Maine,Maine,Portland,Lewiston,35.2,45.12821,-306,-0.057954564,-0.001646436
+Maine,Maine,Portland,Bangor,130,65,-157,-0.029734858,-0.00022873
+Maine,Maine,Portland,Augusta,56.1,62.33333,-114,-0.021590916,-0.000384865
+Maine,Maine,Portland,Waterville,75,58.59375,-215,-0.04071971,-0.000542929
+Maine,Maine,Portland,Brunswick,27,54,-50,-0.0094697,-0.00035073
+Maine,Maine,Lewiston,Portland,36.2,47.63158,306,0.057954564,0.001600955
+Maine,Maine,Lewiston,Bangor,107,66.45963,149,0.028219706,0.000263736
+Maine,Maine,Lewiston,Augusta,33.4,55.66667,192,0.036363648,0.001088732
+Maine,Maine,Lewiston,Waterville,52.2,58,91,0.017234854,0.00033017
+Maine,Maine,Lewiston,Brunswick,21,38.18182,256,0.048484864,0.002308803
+Maine,Maine,Bangor,Portland,130,65,157,0.029734858,0.00022873
+Maine,Maine,Bangor,Lewiston,108,63.52941,-149,-0.028219706,-0.000261294
+Maine,Maine,Bangor,Augusta,76.7,65,43,0.008143942,0.000106179
+Maine,Maine,Bangor,Waterville,57,62.63736,-58,-0.010984852,-0.000192717
+Maine,Maine,Bangor,Brunswick,110,65.47619,107,0.020265158,0.000184229
+Maine,Maine,Augusta,Portland,55.9,62.11111,114,0.021590916,0.000386242
+Maine,Maine,Augusta,Lewiston,34,55.7377,-192,-0.036363648,-0.001069519
+Maine,Maine,Augusta,Bangor,75.6,65.73913,-43,-0.008143942,-0.000107724
+Maine,Maine,Augusta,Waterville,21,48.83721,-101,-0.019128794,-0.000910895
+Maine,Maine,Augusta,Brunswick,36,60,64,0.012121216,0.0003367
+Maine,Maine,Waterville,Portland,76.2,63.5,215,0.04071971,0.000534379
+Maine,Maine,Waterville,Lewiston,54.3,59.67033,-91,-0.017234854,-0.000317401
+Maine,Maine,Waterville,Bangor,55.7,64.76744,58,0.010984852,0.000197215
+Maine,Maine,Waterville,Augusta,19.5,42.3913,101,0.019128794,0.000980964
+Maine,Maine,Waterville,Brunswick,56,62.22222,165,0.03125001,0.000558036
+Maine,Maine,Brunswick,Portland,26,52,50,0.0094697,0.000364219
+Maine,Maine,Brunswick,Lewiston,21,37.5,-256,-0.048484864,-0.002308803
+Maine,Maine,Brunswick,Bangor,106,67.08861,-107,-0.020265158,-0.000191181
+Maine,Maine,Brunswick,Augusta,32,57.14286,-64,-0.012121216,-0.000378788
+Maine,Maine,Brunswick,Waterville,51,59.30233,-165,-0.03125001,-0.000612745
+North Carolina,North Carolina,Raleigh,Charlotte,166,65.92,-101.498,-0.019223112,-0.000115802
+North Carolina,North Carolina,Raleigh,Asheville,247,65.87,69.312,0.013127277,5.31E-05
+North Carolina,North Carolina,Raleigh,Wilmington,128,67.89,-12.85,-0.002433713,-1.90E-05
+North Carolina,North Carolina,Raleigh,Greenbore,77,65.4,-86.423,-0.016367998,-0.000212571
+North Carolina,North Carolina,Raleigh,Durham,25,50.9,-9.84252,-0.001864114,-7.46E-05
+North Carolina,North Carolina,Charlotte,Raleigh,166,66.4,-101.498,-0.019223112,-0.000115802
+North Carolina,North Carolina,Charlotte,Asheville,125,62.9,6.486,0.001228409,9.83E-06
+North Carolina,North Carolina,Charlotte,Wilmington,201,61.3,-0.569,-0.000107765,-5.36E-07
+North Carolina,North Carolina,Charlotte,Greenbore,91,66.9,0.137,2.59E-05,2.85E-07
+North Carolina,North Carolina,Charlotte,Durham,141,68.1,-0.0708,-1.34E-05,-9.51E-08
+North Carolina,North Carolina,Asheville,Raleigh,247,67.07,-69.312,-0.013127277,-5.31E-05
+North Carolina,North Carolina,Asheville,Charlotte,126,63.1,0.408,7.73E-05,6.13E-07
+North Carolina,North Carolina,Asheville,Wilmington,331,64.4,-157.481,-0.029825957,-9.01E-05
+North Carolina,North Carolina,Asheville,Greenbore,173,61.5,-86.423,-0.016367998,-9.46E-05
+North Carolina,North Carolina,Asheville,Durham,224,67.8,-173.885,-0.032932776,-0.000147021
+North Carolina,North Carolina,Willmigton,Asheville,331,64.2,157.481,0.029825957,9.01E-05
+North Carolina,North Carolina,Willmigton,Raleigh,128,69.35,-12.85,-0.002433713,-1.90E-05
+North Carolina,North Carolina,Willmigton,Charlotte,201,60.5,-639.763,-0.121167274,-0.000602822
+North Carolina,North Carolina,Willmigton,Greenbore,206,54.15,-226.378,-0.042874635,-0.000208129
+North Carolina,North Carolina,Willmigton,Durham,153,69.55,13.936,0.002639395,1.73E-05
+North Carolina,North Carolina,Greenbore,Wilmington,205,64.57,-226.378,-0.042874635,-0.000209145
+North Carolina,North Carolina,Greenbore,Asheville,173,86.5,0.97,0.000183712,1.06E-06
+North Carolina,North Carolina,Greenbore,Raleigh,77,58.1,-86.423,-0.016367998,-0.000212571
+North Carolina,North Carolina,Greenbore,Charlotte,92,66,-541.338,-0.102526169,-0.001114415
+North Carolina,North Carolina,Greenbore,Durham,54,56.5,-22.9659,-0.004349604,-8.05E-05
+North Carolina,North Carolina,Durham,Greenbore,55,67.3,22.9659,0.004349604,7.91E-05
+North Carolina,North Carolina,Durham,Wilmington,154,68.44,-13.936,-0.002639395,-1.71E-05
+North Carolina,North Carolina,Durham,Asheville,225,66.4,173.885,0.032932776,0.000146368
+North Carolina,North Carolina,Durham,Charlotte,145,67.45,9.84252,0.001864114,1.29E-05
+North Carolina,North Carolina,Durham,Raleigh,25,46,9.84252,0.001864114,7.46E-05
+Virginia,Virginia,Alexandria,Hampton,175,58.33333,226.378,0.042874635,0.000244998
+Virginia,Virginia,Alexandria,Fredericksburg,48.5,41.10169,32.8084,0.006213714,0.000128118
+Virginia,Virginia,Alexandria,Richmond,104,52,9.84252,0.001864114,1.79E-05
+Virginia,Virginia,Alexandria,Virginia Beach,204,58.28571,203.412,0.038525012,0.000188848
+Virginia,Virginia,Alexandria,Williamsburg,150,58.13953,183.727,0.034796791,0.000231979
+Virginia,Virginia,Hampton,Alexandria,174,66.92308,-226.378,-0.042874635,-0.000246406
+Virginia,Virginia,Hampton,Fredericksburg,128,64,-193.57,-0.036660997,-0.000286414
+Virginia,Virginia,Hampton,Richmond,76.6,63.83333,-216.535,-0.04101043,-0.000535384
+Virginia,Virginia,Hampton,Virginia Beach,30.08,50.13333,-22.9659,-0.004349604,-0.000144601
+Virginia,Virginia,Hampton,Williamsburg,29.9,59.8,-42.6509,-0.008077825,-0.000270161
+Virginia,Virginia,Fredericksburg,Alexandria,47.8,45.96154,-32.8084,-0.006213714,-0.000129994
+Virginia,Virginia,Fredericksburg,Hampton,130,66.32653,193.57,0.036660997,0.000282008
+Virginia,Virginia,Fredericksburg,Richmond,59.9,59.9,-22.9659,-0.004349604,-7.26E-05
+Virginia,Virginia,Fredericksburg,Virginia Beach,160,64,170.604,0.032311374,0.000201946
+Virginia,Virginia,Fredericksburg,Williamsburg,104,65,150.919,0.028583153,0.000274838
+Virginia,Virginia,Richmond,Alexandria,105,60.69364,-9.84252,-0.001864114,-1.78E-05
+Virginia,Virginia,Richmond,Hampton,77,64.16667,216.535,0.04101043,0.000532603
+Virginia,Virginia,Richmond,Fredericksburg,58.5,55.18868,22.9659,0.004349604,7.44E-05
+Virginia,Virginia,Richmond,Virginia Beach,107,62.94118,193.57,0.036660997,0.000342626
+Virginia,Virginia,Richmond,Williamsburg,51.4,58.40909,173.885,0.032932776,0.000640715
+Virginia,Virginia,Virginia Beach,Alexandria,213,66.98113,-203.412,-0.038525012,-0.000180869
+Virginia,Virginia,Virginia Beach,Hampton,44.3,65.14706,22.9659,0.004349604,9.82E-05
+Virginia,Virginia,Virginia Beach,Fredericksburg,166,66.4,-170.604,-0.032311374,-0.000194647
+Virginia,Virginia,Virginia Beach,Richmond,116,66.28571,-193.57,-0.036660997,-0.000316043
+Virginia,Virginia,Virginia Beach,Williamsburg,69.5,63.18182,-19.685,-0.003728221,-5.36E-05
+Virginia,Virginia,Williamsburg,Alexandria,149,65.35088,-183.727,-0.034796791,-0.000233536
+Virginia,Virginia,Williamsburg,Hampton,29.3,50.51724,42.6509,0.008077825,0.000275694
+Virginia,Virginia,Williamsburg,Fredericksburg,103,64.375,-150.919,-0.028583153,-0.000277506
+Virginia,Virginia,Williamsburg,Richmond,51.6,57.33333,-173.885,-0.032932776,-0.000638232
+Virginia,Virginia,Williamsburg,Virginia Beach,59.3,53.90909,19.685,0.003728221,6.29E-05
+Michigan,Michigan,Detroit,Grand Rapids,162,64.8,16,0.003030304,1.87E-05
+Michigan,Michigan,Detroit,Cadillac,207,69,-653,-0.123674282,-0.00059746
+Michigan,Michigan,Detroit,Traverse City,255,65.3846,30,0.00568182,2.23E-05
+Michigan,Michigan,Detroit,Owosso,92.2,61.4667,-82,-0.015530308,-0.000168442
+Michigan,Michigan,Ann Arbor,Detroit,43,57.3333,184,0.034848496,0.00081043
+Michigan,Michigan,Ann Arbor,Grand Rapids,132,66,200,0.0378788,0.000286961
+Michigan,Michigan,Ann Arbor,Cadillac,191,65.8621,-469,-0.088825786,-0.000465056
+Michigan,Michigan,Ann Arbor,Traverse City,239,63.7333,214,0.040530316,0.000169583
+Michigan,Michigan,Ann Arbor,Owosso,68.6,59.6522,102,0.019318188,0.000281606
+Michigan,Michigan,Grand Rapids,Detroit,157,65.4167,-16,-0.003030304,-1.93E-05
+Michigan,Michigan,Grand Rapids,Ann Arbor,132,67.6923,-200,-0.0378788,-0.000286961
+Michigan,Michigan,Grand Rapids,Cadillac,95.1,71.325,-669,-0.126704586,-0.00133233
+Michigan,Michigan,Grand Rapids,Traverse City,143,66,14,0.002651516,1.85E-05
+Michigan,Michigan,Grand Rapids,Owosso,94.2,66.49411765,-98,-0.018560612,-0.000197034
+Michigan,Michigan,Cadillac,Detroit,207,59.14285714,1253,0.237310682,0.001146428
+Michigan,Michigan,Cadillac,Ann Arbor,191,67.01754386,469,0.088825786,0.000465056
+Michigan,Michigan,Cadillac,Grand Rapids,95.6,68.28571429,0,0,0
+Michigan,Michigan,Cadillac,Traverse City,47.8,49.44827586,683,0.129356102,0.002706195
+Michigan,Michigan,Cadillac,Owosso,130,63.41463415,571,0.108143974,0.000831877
+Michigan,Michigan,Traverse City,Detroit,256,65.64102564,-30,-0.00568182,-2.22E-05
+Michigan,Michigan,Traverse City,Ann Arbor,239,64.88687783,-214,-0.040530316,-0.000169583
+Michigan,Michigan,Traverse City,Grand Rapids,142,62.64705882,-14,-0.002651516,-1.87E-05
+Michigan,Michigan,Traverse City,Cadillac,47.2,47.2,-683,-0.129356102,-0.002740595
+Michigan,Michigan,Traverse City,Owosso,177,60,-112,-0.021212128,-0.000119843
+Michigan,Michigan,Owosso,Detroit,92.2,62.15730337,82,0.015530308,0.000168442
+Michigan,Michigan,Owosso,Ann Arbor,68.5,57.88732394,-102,-0.019318188,-0.000282017
+Michigan,Michigan,Owosso,Grand Rapids,94.1,67.21428571,98,0.018560612,0.000197243
+Michigan,Michigan,Owosso,Cadillac,130,63.41463415,-571,-0.108143974,-0.000831877
+Michigan,Michigan,Owosso,Traverse City,178,61.73410405,112,0.021212128,0.000119169
+kentucky,kentucky,Frankfort,cynthiana,40,49.0196,-197,-0.037310618,-0.000932765
+kentucky,kentucky,Frankfort,Lexington,29,54.3784,-473,-0.089583362,-0.003089081
+kentucky,kentucky,Frankfort,Lawrenceburg,14,46.6667,-253,-0.047916682,-0.00342262
+kentucky,kentucky,Frankfort,Louisville,54,60,39,0.007386366,0.000136785
+kentucky,kentucky,Frankfort,LaGrange,46,53.1182,-246,-0.046590924,-0.001012846
+kentucky,kentucky,Cynthiana,Frankfort,40,49.0196,197,0.037310618,0.000932765
+kentucky,kentucky,Cynthiana,Lexington,29,43.9394,-276,-0.052272744,-0.001802508
+kentucky,kentucky,Cynthiana,Lawrenceburg,52,52.8815,-56,-0.010606064,-0.000203963
+kentucky,kentucky,Cynthiana,Louisville,91,57.4737,236,0.044696984,0.000491176
+kentucky,kentucky,Cynthiana,LaGrange,83,50.8164,-49,-0.009280306,-0.000111811
+kentucky,kentucky,Lexington,Frankfort,29,54.3784,473,0.089583362,0.003089081
+kentucky,kentucky,Lexington,Cynthiana,29,43.9394,276,0.052272744,0.001802508
+kentucky,kentucky,Lexington,Lawrenceburg,23,43.1277,220,0.04166668,0.001811595
+kentucky,kentucky,Lexington,Louisville,78,292.507,512,0.096969728,0.001243202
+kentucky,kentucky,Lexington,LaGrange,434,64.138,227,0.042992438,9.91E-05
+kentucky,kentucky,Lawrenceburg,Frankfort,14,46.6667,19,0.003598486,0.000257035
+kentucky,kentucky,Lawrenceburg,Cynthiana,91,57.4737,56,0.010606064,0.00011655
+kentucky,kentucky,Lawrenceburg,Lexington,23,43.1277,220,0.04166668,0.001811595
+kentucky,kentucky,Lawrenceburg,Louisville,54,55.8625,292,0.055303048,0.001024131
+kentucky,kentucky,Lawrenceburg,LaGrange,46,44.5163,7,0.001325758,2.88E-05
+kentucky,kentucky,Louisville,Frankfort,54,60,-39,-0.007386366,-0.000136785
+kentucky,kentucky,Louisville,Cynthiana,26,44.5717,-236,-0.044696984,-0.001719115
+kentucky,kentucky,Louisville,Lexington,78,292.507,-512,-0.096969728,-0.001243202
+kentucky,kentucky,Louisville,Lawrenceburg,54,55.8625,-292,-0.055303048,-0.001024131
+kentucky,kentucky,Louisville,LaGrange,60,44.5163,-285,-0.05397729,-0.000899622
+kentucky,kentucky,LaGrange,Frankfort,46,53.1182,-246,-0.046590924,-0.001012846
+kentucky,kentucky,LaGrange,Cynthiana,83,50.8164,-49,-0.009280306,-0.000111811
+kentucky,kentucky,LaGrange,Lexington,434,64.138,227,0.042992438,9.91E-05
+kentucky,kentucky,LaGrange,Lawrenceburg,60,44.5163,-285,-0.05397729,-0.000899622
+kentucky,kentucky,LaGrange,Louisville,60,44.5163,-285,-0.05397729,-0.000899622
+Ohio,Ohio,Columbus,Cincinnati,107,65,-1,-0.000189394,-1.77E-06
+Ohio,Ohio,Columbus,Toledo,142,70,0.1,1.89E-05,1.33E-07
+Ohio,Ohio,Columbus,Akron,126,65,0.5,0.000094697,7.52E-07
+Ohio,Ohio,Columbus,Dayton,71.9,65,-2,-0.000378788,-5.27E-06
+Ohio,Ohio,Cleveland,Columbus,142,65,-0.5,-0.000094697,-6.67E-07
+Ohio,Ohio,Cleveland,Cincinnati,248,65,-1,-0.000189394,-7.64E-07
+Ohio,Ohio,Cleveland,Toledo,114,70,0.1,1.89E-05,1.66E-07
+Ohio,Ohio,Cleveland,Akron,38.7,65,0.5,0.000094697,2.45E-06
+Ohio,Ohio,Cleveland,Dayton,211,65,-1,-0.000189394,-8.98E-07
+Ohio,Ohio,Cincinnati,Columbus,107,65,1,0.000189394,1.77E-06
+Ohio,Ohio,Cincinnati,Cleveland,249,65,1,0.000189394,7.61E-07
+Ohio,Ohio,Cincinnati,Toledo,206,70,0.1,1.89E-05,9.19E-08
+Ohio,Ohio,Cincinnati,Akron,232,65,1,0.000189394,8.16E-07
+Ohio,Ohio,Cincinnati,Dayton,59.4,65,-1,-0.000189394,-3.19E-06
+Ohio,Ohio,Toledo,Columbus,246,52.75,1.217,0.000230492,9.37E-07
+Ohio,Ohio,Toledo,Cleveland,114,58.3,3.199,0.000605871,5.31E-06
+Ohio,Ohio,Toledo,Cincinnati,202,49.6,-2.743,-0.000519508,-2.57E-06
+Ohio,Ohio,Toledo,Akron,135,53.1,1.39,0.000263258,1.95E-06
+Ohio,Ohio,Toledo,Dayton,150,62,0.965,0.000182765,1.22E-06
+Ohio,Ohio,Akron,Columbus,369,57.4,-1.356,-0.000256818,-6.96E-07
+Ohio,Ohio,Akron,Cleveland,39.3,65.2,-0.356,-6.74E-05,-1.72E-06
+Ohio,Ohio,Akron,Cincinnati,232,68.2,1.217,0.000230492,9.94E-07
+Ohio,Ohio,Akron,Toledo,135,53.1,-1.39,-0.000263258,-1.95E-06
+Ohio,Ohio,Akron,Dayton,195,59.8,-548.8845144,-0.103955434,-0.000533105
+Ohio,Ohio,Dayton,Columbus,301,49.2,0.8,0.000151515,5.03E-07
+Ohio,Ohio,Dayton,Cleveland,212,54.5,-2.443,-0.00046269,-2.18E-06
+Ohio,Ohio,Dayton,Cincinnati,54.2,48.8,-0.5,-0.000094697,-1.75E-06
+Ohio,Ohio,Dayton,Toledo,149,62,-0.965,-0.000182765,-1.23E-06
+Ohio,Ohio,Dayton,Akron,195,59.8,2.567,0.000486174,2.49E-06
+New Hampshire,New Hampshire,Manchester,Concord,18.21,54.6,-167.3,-0.031685616,-0.001740012
+New Hampshire,New Hampshire,Manchester,Nashua,19.5,48.75,134.5,0.025473493,0.001306333
+New Hampshire,New Hampshire,Manchester,Rochester,42.2,48.69,95.2,0.018030309,0.000427259
+New Hampshire,New Hampshire,Manchester,Portsmouth,44,58.66,278.86,0.052814411,0.001200328
+New Hampshire,New Hampshire,Manchester,Keene,65.6,56.22,-200.14,-0.037905315,-0.000577825
+New Hampshire,New Hampshire,Concord,Manchester,17.9,56.52,167.3,0.031685616,0.001770146
+New Hampshire,New Hampshire,Concord,Nashua,34.7,57.83,301.8,0.057159109,0.001647237
+New Hampshire,New Hampshire,Concord,Rochester,35.2,43.1,262.5,0.049715925,0.001412384
+New Hampshire,New Hampshire,Concord,Portsmouth,59.2,63.42,446.16,0.084500027,0.001427365
+New Hampshire,New Hampshire,Concord,Keene,50.91,52.65,-32.84,-0.006219699,-0.00012217
+New Hampshire,New Hampshire,Nashua,Manchester,19.8,51.65,-134.5,-0.025473493,-0.00128654
+New Hampshire,New Hampshire,Nashua,Concord,34.5,60.88,-301.8,-0.057159109,-0.001656786
+New Hampshire,New Hampshire,Nashua,Rochester,59.3,53.9,-39.3,-0.007443184,-0.000125517
+New Hampshire,New Hampshire,Nashua,Portsmouth,61.1,61.1,144.36,0.027340918,0.000447478
+New Hampshire,New Hampshire,Nashua,Keene,48.7,87.47,-334.64,-0.063378808,-0.001301413
+New Hampshire,New Hampshire,Portsmouth,Manchester,43.5,56.73,-278.86,-0.052814411,-0.001214124
+New Hampshire,New Hampshire,Portsmouth,Concord,58.4,60.4,-446.16,-0.084500027,-0.001446918
+New Hampshire,New Hampshire,Portsmouth,Nashua,55.2,53.41,-144.36,-0.027340918,-0.000495306
+New Hampshire,New Hampshire,Portsmouth,Rochester,21.4,47.55,-183.66,-0.034784102,-0.001625425
+New Hampshire,New Hampshire,Portsmouth,Keene,105.8,58.77,-479,-0.090719726,-0.000857464
+New Hampshire,New Hampshire,Rochester,Manchester,42.5,47.22,-95.2,-0.018030309,-0.000424243
+New Hampshire,New Hampshire,Rochester,Concord,35.21,44,-262.5,-0.049715925,-0.001411983
+New Hampshire,New Hampshire,Rochester,Nashua,60.6,52.69,39.3,0.007443184,0.000122825
+New Hampshire,New Hampshire,Rochester,Portsmouth,23.1,51.1,183.66,0.034784102,0.001505805
+New Hampshire,New Hampshire,Rochester,Keene,88.4,51,-295.34,-0.055935624,-0.000632756
+New Hampshire,New Hampshire,Keene,Manchester,64.8,57.17,200.14,0.037905315,0.000584959
+New Hampshire,New Hampshire,Keene,Concord,51.2,52.96,32.84,0.006219699,0.000121478
+New Hampshire,New Hampshire,Keene,Nashua,48.61,39.94,334.64,0.063378808,0.001303822
+New Hampshire,New Hampshire,Keene,Rochester,88.41,50.03,295.34,0.055935624,0.000632684
+New Hampshire,New Hampshire,Keene,Portsmouth,106.1,58.94,479,0.090719726,0.00085504
+Indiana,Indiana,Southbend,Fortwayne,90.7,52.83,-144.353,-0.027339592,-0.000301429
+Indiana,Indiana,Southbend,Indianapolis,147.4,58.56,-19.67,-0.00372538,-2.53E-05
+Indiana,Indiana,Southbend,Lafayette,107.4,54.15,62.42,0.011821973,0.000110074
+Indiana,Indiana,Southbend,Bloomington,197.31,58.89,-45.88,-0.008689397,-4.40E-05
+Indiana,Indiana,Southbend,Evansville,318.51,62.86,380.54,0.072071993,0.000226279
+Indiana,Indiana,Fortwayne,Southbend,90.4,52.66,144.353,0.027339592,0.000302429
+Indiana,Indiana,Fortwayne,Indianapolis,126.2,60.9,124.68,0.023613644,0.000187113
+Indiana,Indiana,Fortwayne,Lafayette,113.9,53.81,206.78,0.039162891,0.000343836
+Indiana,Indiana,Fortwayne,Bloomington,176.1,60.72,98.48,0.018651521,0.000105914
+Indiana,Indiana,Fortwayne,Evansville,297.3,64.39,524.9,0.099412911,0.000334386
+Indiana,Indiana,Indianapolis,Southbend,147.1,59.23,19.67,0.00372538,2.53E-05
+Indiana,Indiana,Indianapolis,Fortwayne,124.6,61.27,-124.68,-0.023613644,-0.000189516
+Indiana,Indiana,Indianapolis,Lafayette,62.91,59.9,82,0.015530308,0.000246865
+Indiana,Indiana,Indianapolis,Bloomington,51.1,49.3,-26.2,-0.004962123,-9.71E-05
+Indiana,Indiana,Indianapolis,Evansville,172.2,56.45,400.22,0.075799267,0.000440182
+Indiana,Indiana,Lafayette,Southbend,107.4,53.25,-62.42,-0.011821973,-0.000110074
+Indiana,Indiana,Lafayette,Fortwayne,114,53.43,-206.78,-0.039162891,-0.000343534
+Indiana,Indiana,Lafayette,Indianapolis,63.1,52.58,-82,-0.015530308,-0.000246122
+Indiana,Indiana,Lafayette,Bloomington,112,53.76,-108.3,-0.02051137,-0.000183137
+Indiana,Indiana,Lafayette,Evansville,233.2,61.91,318.12,0.060250019,0.000258362
+Indiana,Indiana,Bloomington,Southbend,196.7,59.3,45.88,0.008689397,4.42E-05
+Indiana,Indiana,Bloomington,Fortwayne,174.3,60.8,-98.48,-0.018651521,-0.000107008
+Indiana,Indiana,Bloomington,Indianapolis,50.7,51.55,26.2,0.004962123,9.79E-05
+Indiana,Indiana,Bloomington,Lafayette,112.1,58.48,108.3,0.02051137,0.000182974
+Indiana,Indiana,Bloomington,Evansville,123.5,50.75,426.42,0.080761389,0.000653938
+Indiana,Indiana,Evansville,Southbend,314.9,62.25,-380.547,-0.072073319,-0.000228877
+Indiana,Indiana,Evansville,Fortwayne,292.5,63.35,-524.9,-0.099412911,-0.000339873
+Indiana,Indiana,Evansville,Indianapolis,160,61.08,-400.22,-0.075799267,-0.000473745
+Indiana,Indiana,Evansville,Lafayette,230.3,62.8,-318.12,-0.060250019,-0.000261615
+Indiana,Indiana,Evansville,Bloomington,120.2,61.11,-426.42,-0.080761389,-0.000671892
+Pennsylvania,Pennsylvania,Pittsburgh,Philadelphia,304,62.89,1184,0.224242496,0.00073764
+Pennsylvania,Pennsylvania,Pittsburgh,Scranton,283,61.29,478,0.090530332,0.000319895
+Pennsylvania,Pennsylvania,Pittsburgh,Erie,128,66.2,495,0.09375003,0.000732422
+Pennsylvania,Pennsylvania,Pittsburgh,Allentown,284,61.29,885,0.16761369,0.000590189
+Pennsylvania,Pennsylvania,Pittsburgh,State college,136,56.27,69,0.013068186,9.61E-05
+Pennsylvania,Pennsylvania,Philadelphia,Pittsburgh,305,62.03,-1184,-0.224242496,-0.000735221
+Pennsylvania,Pennsylvania,Philadelphia,Scranton,125,59.52,-706,-0.133712164,-0.001069697
+Pennsylvania,Pennsylvania,Philadelphia,Erie,401,62.01,-689,-0.130492466,-0.000325418
+Pennsylvania,Pennsylvania,Philadelphia,Allentown,58,42.96,-299,-0.056628806,-0.000976359
+Pennsylvania,Pennsylvania,Philadelphia,State college,192,59.68,-1115,-0.21117431,-0.001099866
+Pennsylvania,Pennsylvania,Scranton,Pittsburgh,282,61.3,-478,-0.090530332,-0.00032103
+Pennsylvania,Pennsylvania,Scranton,Philadelphia,125,60,706,0.133712164,0.001069697
+Pennsylvania,Pennsylvania,Scranton,Erie,322,64.83,17,0.003219698,1.00E-05
+Pennsylvania,Pennsylvania,Scranton,Allentown,75.4,56.55,407,0.077083358,0.001022326
+Pennsylvania,Pennsylvania,Scranton,State college,142,53.58,-409,-0.077462146,-0.000545508
+Pennsylvania,Pennsylvania,Erie,Pittsburgh,128,63.47,-495,-0.09375003,-0.000732422
+Pennsylvania,Pennsylvania,Erie,Philadelphia,402,62,689,0.130492466,0.000324608
+Pennsylvania,Pennsylvania,Erie,Scranton,322,62.52,-17,-0.003219698,-1.00E-05
+Pennsylvania,Pennsylvania,Erie,Allentown,344,55.93,390,0.07386366,0.00021472
+Pennsylvania,Pennsylvania,Erie,State college,176,49.11,-426,-0.080681844,-0.00045842
+Pennsylvania,Pennsylvania,Allentown,Pittsburgh,284,60.85,-885,-0.16761369,-0.000590189
+Pennsylvania,Pennsylvania,Allentown,Philadelphia,59.5,46.36,299,0.056628806,0.000951745
+Pennsylvania,Pennsylvania,Allentown,Scranton,76.4,52.68,-407,-0.077083358,-0.001008944
+Pennsylvania,Pennsylvania,Allentown,Erie,345,55.64,-390,-0.07386366,-0.000214098
+Pennsylvania,Pennsylvania,Allentown,State college,165,58.57,-816,-0.154545504,-0.000936639
+Pennsylvania,Pennsylvania,State college,Pittsburgh,136,55.51,-69,-0.013068186,-9.61E-05
+Pennsylvania,Pennsylvania,State college,Philadelphia,192,59.07,1115,0.21117431,0.001099866
+Pennsylvania,Pennsylvania,State college,Scranton,148,55.15,409,0.077462146,0.000523393
+Pennsylvania,Pennsylvania,State college,Erie,180,50.23,426,0.080681844,0.000448232
+Pennsylvania,Pennsylvania,State college,Allentown,164,56.87,816,0.154545504,0.000942351
+South Carolina,South Carolina,Columbia,Greenville,103,63.06,642,0.121590948,0.001180495
+South Carolina,South Carolina,Columbia,Sumter,43.5,47.45,-148,-0.028030312,-0.000644375
+South Carolina,South Carolina,Columbia,Myrtle Beach,152,58.46,-287,-0.054356078,-0.000357606
+South Carolina,South Carolina,Columbia,Spartanburg,93.2,60.13,465,0.08806821,0.000944938
+South Carolina,South Carolina,Columbia,Clemson,132,57.81,404,0.076515176,0.00057966
+South Carolina,South Carolina,Greenville,Columbia,102,65.81,-642,-0.121590948,-0.001192068
+South Carolina,South Carolina,Greenville,Sumter,152,60.8,-790,-0.14962126,-0.00098435
+South Carolina,South Carolina,Greenville,Myrtle Beach,252,62.22,-929,-0.175947026,-0.000698202
+South Carolina,South Carolina,Greenville,Spartanburg,30,51.43,-177,-0.033522738,-0.001117425
+South Carolina,South Carolina,Greenville,Clemson,30.2,46.46,-238,-0.045075772,-0.001492575
+South Carolina,South Carolina,Sumter,Columbia,44.5,46.84,148,0.028030312,0.000629895
+South Carolina,South Carolina,Sumter,Greenville,158,61.56,790,0.14962126,0.00094697
+South Carolina,South Carolina,Sumter,Myrtle Beach,94.6,53.55,-139,-0.026325766,-0.000278285
+South Carolina,South Carolina,Sumter,Spartanburg,147,60.41,613,0.116098522,0.000789786
+South Carolina,South Carolina,Sumter,Clemson,186,59.05,552,0.104545488,0.000562073
+South Carolina,South Carolina,Myrtle Beach,Columbia,153,58.1,287,0.054356078,0.000355268
+South Carolina,South Carolina,Myrtle Beach,Greenville,251,61.72,929,0.175947026,0.000700984
+South Carolina,South Carolina,Myrtle Beach,Sumter,94.6,50.68,139,0.026325766,0.000278285
+South Carolina,South Carolina,Myrtle Beach,Spartanburg,241,60.5,752,0.142424288,0.000590972
+South Carolina,South Carolina,Myrtle Beach,Clemson,280,60,691,0.130871254,0.000467397
+South Carolina,South Carolina,Spartanburg,Columbia,93,63.41,-465,-0.08806821,-0.00094697
+South Carolina,South Carolina,Spartanburg,Greenville,30.2,50.33,177,0.033522738,0.001110024
+South Carolina,South Carolina,Spartanburg,Sumter,141,58.34,-613,-0.116098522,-0.000823394
+South Carolina,South Carolina,Spartanburg,Myrtle Beach,241,60.76,-752,-0.142424288,-0.000590972
+South Carolina,South Carolina,Spartanburg,Clemson,280,60.22,-61,-0.011553034,-4.13E-05
+South Carolina,South Carolina,Clemson,Columbia,131,60.93,-404,-0.076515176,-0.000584085
+South Carolina,South Carolina,Clemson,Greenville,30.2,47.68,238,0.045075772,0.001492575
+South Carolina,South Carolina,Clemson,Sumter,179,58.37,-552,-0.104545488,-0.000584053
+South Carolina,South Carolina,Clemson,Spartanburg,65,55.71,61,0.011553034,0.000177739
+South Carolina,South Carolina,Clemson,Myrtle Beach,279,59.79,-691,-0.130871254,-0.000469073
+Delaware,Delaware,Wilmington,Newark,13.4,36.54,130,0.02462122,0.001837404
+Delaware,Delaware,Wilmington,Middletown,27.3,49.63,27,0.005113638,0.000187313
+Delaware,Delaware,Wilmington,Dover,50.8,58.61,79,0.014962126,0.00029453
+Delaware,Delaware,Wilmington,Milford,68.6,60.52,-2,-0.000378788,-5.52E-06
+Delaware,Delaware,Wilmington,Frankford,99.3,54.16,10,0.00189394,1.91E-05
+Delaware,Delaware,Newark,Wilmington,14.4,33.23,-130,-0.02462122,-0.001709807
+Delaware,Delaware,Newark,Middletown,17.7,32.18,-103,-0.019507582,-0.001102123
+Delaware,Delaware,Newark,Dover,49.1,53.56,-51,-0.009659094,-0.000196723
+Delaware,Delaware,Newark,Milford,67,56.61,-132,-0.025000008,-0.000373134
+Delaware,Delaware,Newark,Frankford,97.7,51.87,-120,-0.02272728,-0.000232623
+Delaware,Delaware,Middletown,Wilmington,27.5,51.56,-27,-0.005113638,-0.00018595
+Delaware,Delaware,Middletown,Newark,17.7,33.19,103,0.019507582,0.001102123
+Delaware,Delaware,Middletown,Dover,27.9,54,52,0.009848488,0.000352992
+Delaware,Delaware,Middletown,Milford,45.7,59.61,-29,-0.005492426,-0.000120184
+Delaware,Delaware,Middletown,Frankford,76.4,55.23,-17,-0.003219698,-4.21E-05
+Delaware,Delaware,Dover,Wilmington,51.4,59.31,-79,-0.014962126,-0.000291092
+Delaware,Delaware,Dover,Newark,49.5,54,51,0.009659094,0.000195133
+Delaware,Delaware,Dover,Middletown,26.4,48,-52,-0.009848488,-0.000373049
+Delaware,Delaware,Dover,Milford,20.3,46.85,-81,-0.015340914,-0.00075571
+Delaware,Delaware,Dover,Frankford,51,49.35,-69,-0.013068186,-0.000256239
+Delaware,Delaware,Milford,Wilmington,68.5,60.44,2,0.000378788,5.53E-06
+Delaware,Delaware,Milford,Newark,66.6,57.09,132,0.025000008,0.000375375
+Delaware,Delaware,Milford,Middletown,43.5,54.38,29,0.005492426,0.000126263
+Delaware,Delaware,Milford,Dover,19.8,42.43,81,0.015340914,0.000774794
+Delaware,Delaware,Milford,Frankford,31.3,44.71,12,0.002272728,7.26E-05
+Delaware,Delaware,Frankford,Wilmington,99.7,54.88,-10,-0.00189394,-1.90E-05
+Delaware,Delaware,Frankford,Newark,97.8,52.86,120,0.02272728,0.000232385
+Delaware,Delaware,Frankford,Middletown,74.6,52.66,17,0.003219698,4.32E-05
+Delaware,Delaware,Frankford,Dover,50.9,47.72,69,0.013068186,0.000256742
+Delaware,Delaware,Frankford,Milford,31.3,44.71,-12,-0.002272728,-7.26E-05
+Connecticut,Connecticut,Hartford,New Haven,38.9,54.27,-9842.52,-1.864114233,-0.047920674
+Connecticut,Connecticut,Hartford,Stamford,76.9,54.9,-22965.88,-4.349599877,-0.056561767
+Connecticut,Connecticut,Hartford,Bridgeport,54.8,54.8,-3280.84,-0.621371411,-0.011338894
+Connecticut,Connecticut,Hartford,Danbury,58.1,52.02,-9842.52,-1.864114233,-0.032084582
+Connecticut,Connecticut,Hartford,Waterbury,30.7,89.38,-9842.52,-1.864114233,-0.060720333
+Connecticut,Connecticut,New Haven,Hartford,38.8,85.02,9842.52,1.864114233,0.048044181
+Connecticut,Connecticut,New Haven,Stamford,41.9,41.9,-13123.36,-2.485485644,-0.059319466
+Connecticut,Connecticut,New Haven,Bridgeport,20.1,31.7,6561.68,1.242742822,0.061828001
+Connecticut,Connecticut,New Haven,Danbury,35.1,28.8,0,0,0
+Connecticut,Connecticut,New Haven,Waterbury,36.8,44.8,0,0,0
+Connecticut,Connecticut,Stamford,New Haven,41.4,27.9,13123.36,2.485485644,0.060035885
+Connecticut,Connecticut,Stamford,Hartford,77.1,40.57,22965.88,4.349599877,0.056415044
+Connecticut,Connecticut,Stamford,Bridgeport,23.1,21.9,19685.04,3.728228466,0.161395172
+Connecticut,Connecticut,Stamford,Danbury,40,35.82,13123.36,2.485485644,0.062137141
+Connecticut,Connecticut,Stamford,Waterbury,53.7,32.22,13123.36,2.485485644,0.046284649
+Connecticut,Connecticut,Bridgeport,New Haven,20.3,36,-6561.68,-1.242742822,-0.061218858
+Connecticut,Connecticut,Bridgeport,Hartford,54.9,58.8,3280.84,0.621371411,0.011318241
+Connecticut,Connecticut,Bridgeport,Stamford,22.3,47.7,-19685.04,-3.728228466,-0.167185133
+Connecticut,Connecticut,Bridgeport,Danbury,31.1,39.7,-6561.68,-1.242742822,-0.039959576
+Connecticut,Connecticut,Bridgeport,Waterbury,30.3,46.6,-6561.68,-1.242742822,-0.041014615
+Connecticut,Connecticut,Danbury,New Haven,35.4,29.09,0,0,0
+Connecticut,Connecticut,Danbury,Hartford,57.9,40.87,9842.52,1.864114233,0.03219541
+Connecticut,Connecticut,Danbury,Bridgeport,29.1,33.57,6561.68,1.242742822,0.042705939
+Connecticut,Connecticut,Danbury,Stamford,30.8,34.22,-13123.36,-2.485485644,-0.080697586
+Connecticut,Connecticut,Danbury,Waterbury,28.4,34.77,0,0,0
+Connecticut,Connecticut,Waterbury,New Haven,22.9,31.9,0,0,0
+Connecticut,Connecticut,Waterbury,Hartford,35.5,54.61,9842.52,1.864114233,0.05251026
+Connecticut,Connecticut,Waterbury,Bridgeport,30.1,56.4,6561.68,1.242742822,0.041287137
+Connecticut,Connecticut,Waterbury,Danbury,28.2,52.87,0,0,0
+Connecticut,Connecticut,Waterbury,Stamford,52.3,56.03,-13123.36,-2.485485644,-0.047523626
+New Jersey,New Jersey,Newark,Trenton,58.3,47.27,80,0.01515152,0.000259889
+New Jersey,New Jersey,Newark,Elizabeth,6.2,14.88,82,0.015530308,0.002504888
+New Jersey,New Jersey,Newark,New Brunswick,27,33.75,61,0.011553034,0.00042789
+New Jersey,New Jersey,Newark,Camden,88.1,55.06,81,0.015340914,0.000174131
+New Jersey,New Jersey,Newark,Atlantic City,118.2,58.13,81,0.015340914,0.000129788
+New Jersey,New Jersey,Trenton,Newark,57.8,55.04,-80,-0.01515152,-0.000262137
+New Jersey,New Jersey,Trenton,Elizabeth,52.1,54.8,2,0.000378788,7.27E-06
+New Jersey,New Jersey,Trenton,New Brunswick,25.6,36.57,-19,-0.003598486,-0.000140566
+New Jersey,New Jersey,Trenton,Camden,35.6,52.09,1,0.000189394,5.32E-06
+New Jersey,New Jersey,Trenton,Atlantic City,90.7,63.27,1,0.000189394,2.09E-06
+New Jersey,New Jersey,Elizabeth,Newark,6.2,21.88,-82,-0.015530308,-0.002504888
+New Jersey,New Jersey,Elizabeth,Trenton,53.5,53.5,-2,-0.000378788,-7.08E-06
+New Jersey,New Jersey,Elizabeth,New Brunswick,22.2,38.05,-21,-0.003977274,-0.000179156
+New Jersey,New Jersey,Elizabeth,Camden,83.2,60.14,-1,-0.000189394,-2.28E-06
+New Jersey,New Jersey,Elizabeth,Atlantic City,113.4,61.85,-1,-0.000189394,-1.67E-06
+New Jersey,New Jersey,New Brunswick,Newark,27.8,41.7,-61,-0.011553034,-0.000415577
+New Jersey,New Jersey,New Brunswick,Trenton,25.2,37.8,19,0.003598486,0.000142797
+New Jersey,New Jersey,New Brunswick,Elizabeth,22.1,40.18,21,0.003977274,0.000179967
+New Jersey,New Jersey,New Brunswick,Camden,67.4,60.35,20,0.00378788,0.0000562
+New Jersey,New Jersey,New Brunswick,Atlantic City,110.3,62.43,20,0.00378788,3.43E-05
+New Jersey,New Jersey,Camden,Newark,88,61.39,-81,-0.015340914,-0.000174329
+New Jersey,New Jersey,Camden,Trenton,35.6,53.4,-1,-0.000189394,-5.32E-06
+New Jersey,New Jersey,Camden,Elizabeth,82.3,60.96,1,0.000189394,2.30E-06
+New Jersey,New Jersey,Camden,New Brunswick,67.3,59.38,-20,-0.00378788,-5.63E-05
+New Jersey,New Jersey,Camden,Atlantic City,57.7,60.73,0,0,0
+New Jersey,New Jersey,Atlantic City,Newark,117.5,61.3,-81,-0.015340914,-0.000130561
+New Jersey,New Jersey,Atlantic City,Trenton,91,62.04,-1,-0.000189394,-2.08E-06
+New Jersey,New Jersey,Atlantic City,Elizabeth,111.8,62.11,1,0.000189394,1.69E-06
+New Jersey,New Jersey,Atlantic City,New Brunswick,110.1,61.73,-20,-0.00378788,-3.44E-05
+New Jersey,New Jersey,Atlantic City,Camden,57.8,59.79,0,0,0
+Georgia,Georgia,Atlanta,Savannah,248,67.02,1030,0.19507582,0.000786596
+Georgia,Georgia,Atlanta,Augusta,146,65.86,914,0.173106116,0.001185658
+Georgia,Georgia,Atlanta,Macon,84,64.61,720,0.13636368,0.001623377
+Georgia,Georgia,Atlanta,Columbus,88,64.8,807,0.152840958,0.001736829
+Georgia,Georgia,Atlanta,Athens,72,59.17,414,0.078409116,0.001089016
+Georgia,Georgia,Savannah,Atlanta,248,67.02,-1030,-0.19507582,-0.000786596
+Georgia,Georgia,Savannah,Augusta,133,53.55,-116,-0.021969704,-0.000165186
+Georgia,Georgia,Savannah,Macon,166,67.75,-310,-0.05871214,-0.000353688
+Georgia,Georgia,Savannah,Columbus,247,61.49,-223,-0.042234862,-0.000170991
+Georgia,Georgia,Savannah,Athens,238,58.04,-616,-0.116666704,-0.000490196
+Georgia,Georgia,Augusta,Atlanta,147,66.81,-914,-0.173106116,-0.001177593
+Georgia,Georgia,Augusta,Savannah,134,53.95,116,0.021969704,0.000163953
+Georgia,Georgia,Augusta,Macon,121,54.17,-194,-0.036742436,-0.000303656
+Georgia,Georgia,Augusta,Columbus,249,65.81,-107,-0.020265158,-8.14E-05
+Georgia,Georgia,Augusta,Athens,110,58.4,-500,-0.094697,-0.000860882
+Georgia,Georgia,Macon,Atlanta,84,64.61,-720,-0.13636368,-0.001623377
+Georgia,Georgia,Macon,Savannah,165,67.34,310,0.05871214,0.000355831
+Georgia,Georgia,Macon,Augusta,123,53.86,194,0.036742436,0.000298719
+Georgia,Georgia,Macon,Columbus,99,58.23,87,0.016477278,0.000166437
+Georgia,Georgia,Macon,Athens,91,52,-306,-0.057954564,-0.000636863
+Georgia,Georgia,Columbus,Atlanta,108,64.15,-807,-0.152840958,-0.001415194
+Georgia,Georgia,Columbus,Savannah,247,61.49,223,0.042234862,0.000170991
+Georgia,Georgia,Columbus,Augusta,249,65.81,107,0.020265158,8.14E-05
+Georgia,Georgia,Columbus,Macon,99,58.23,-87,-0.016477278,-0.000166437
+Georgia,Georgia,Columbus,Athens,180,62.79,-393,-0.074431842,-0.00041351
+Georgia,Georgia,Athens,Atlanta,72,59.17,-414,-0.078409116,-0.001089016
+Georgia,Georgia,Athens,Savannah,239,60,616,0.116666704,0.000488145
+Georgia,Georgia,Athens,Augusta,106,56.28,500,0.094697,0.000893368
+Georgia,Georgia,Athens,Macon,91,52,306,0.057954564,0.000636863
+Georgia,Georgia,Athens,Columbus,179,62.44,393,0.074431842,0.00041582
+West Virginia,West Virginia,Charleston,Bluefield,106,65,-2010,-0.38068194,-0.003591339
+West Virginia,West Virginia,Charleston,Martinsburgs,306,66.76,103,0.019507582,6.38E-05
+West Virginia,West Virginia,Charleston,Vienna,82,63.07,-47,-0.008901518,-0.000108555
+West Virginia,West Virginia,Charleston,Summersville,88,62.85,-1286,-0.243560684,-0.002767735
+West Virginia,West Virginia,Charleston,Ansted,49,45.23,-732,-0.138636408,-0.002829314
+West Virginia,West Virginia,Bluefield,Charleston,106,64.89,2010,0.38068194,0.003591339
+West Virginia,West Virginia,Bluefield,Martinsburgs,298,66.22,2113,0.400189522,0.001342918
+West Virginia,West Virginia,Bluefield,Vienna,187,64.48,1963,0.371780422,0.001988131
+West Virginia,West Virginia,Bluefield,Summersville,95,61.29,724,0.137121256,0.001443382
+West Virginia,West Virginia,Bluefield,Ansted,85,59.3,1278,0.242045532,0.002847594
+West Virginia,West Virginia,Martinsburgs,Charleston,305,66.76,-103,-0.019507582,-6.40E-05
+West Virginia,West Virginia,Martinsburgs,Bluefield,300,66.43,-2113,-0.400189522,-0.001333965
+West Virginia,West Virginia,Martinsburgs,Vienna,263,63.88,-150,-0.0284091,-0.000108019
+West Virginia,West Virginia,Martinsburgs,Summersville,273,65.78,-1389,-0.263068266,-0.00096362
+West Virginia,West Virginia,Martinsburgs,Ansted,273,60.22,-835,-0.15814399,-0.000579282
+West Virginia,West Virginia,Vienna,Charleston,82,63.07,-47,-0.008901518,-0.000108555
+West Virginia,West Virginia,Vienna,Bluefield,187,64.48,-1963,-0.371780422,-0.001988131
+West Virginia,West Virginia,Vienna,Martinsburgs,263,63.88,150,0.0284091,0.000108019
+West Virginia,West Virginia,Vienna,Summersville,164,63.48,-1239,-0.234659166,-0.001430849
+West Virginia,West Virginia,Vienna,Ansted,130,55.31,-1185,-0.22443189,-0.001726399
+West Virginia,West Virginia,Summersville,Charleston,88,62.85,-1286,-0.243560684,-0.002767735
+West Virginia,West Virginia,Summersville,Bluefield,95,61.28,-724,-0.137121256,-0.001443382
+West Virginia,West Virginia,Summersville,Vienna,164,63.48,1239,0.234659166,0.001430849
+West Virginia,West Virginia,Summersville,Martinsburgs,273,60.22,1389,0.263068266,0.00096362
+West Virginia,West Virginia,Summersville,Ansted,23,53.07,554,0.104924276,0.004561925
+West Virginia,West Virginia,Ansted,Charleston,49,45.23,-2010,-0.38068194,-0.007769019
+West Virginia,West Virginia,Ansted,Bluefield,85,59.3,-1963,-0.371780422,-0.004373887
+West Virginia,West Virginia,Ansted,Vienna,127,57.43,1185,0.22443189,0.00176718
+West Virginia,West Virginia,Ansted,Summersville,23,53.02,-554,-0.104924276,-0.004561925
+West Virginia,West Virginia,Ansted,Martinsburgs,273,60.22,835,0.15814399,0.000579282
+Rhode Island,Rhode Island,Providence,North Kingstown,23,46,-72,-0.013636368,-0.000592886
+Rhode Island,Rhode Island,Providence,Newport,34,48.57,-16,-0.003030304,-8.91E-05
+Rhode Island,Rhode Island,Providence,Warwick,10,33.33,-10,-0.00189394,-0.000189394
+Rhode Island,Rhode Island,Providence,Woonsocket,15,50,-187,-0.035416678,-0.002361112
+Rhode Island,Rhode Island,Providence,Westerly,44,55,-26,-0.004924244,-0.000111915
+Rhode Island,Rhode Island,North Kingstown,Providence,23,47.59,72,0.013636368,0.000592886
+Rhode Island,Rhode Island,North Kingstown,Newport,11,38.82,56,0.010606064,0.000964188
+Rhode Island,Rhode Island,North Kingstown,Warwick,16,40,62,0.011742428,0.000733902
+Rhode Island,Rhode Island,North Kingstown,Woonsocket,38,50.67,-155,-0.02935607,-0.000772528
+Rhode Island,Rhode Island,North Kingstown,Westerly,31,46.5,46,0.008712124,0.000281036
+Rhode Island,Rhode Island,Newport,Providence,34,49.76,16,0.003030304,8.91E-05
+Rhode Island,Rhode Island,Newport,North Kingstown,11,41.25,-64,-0.012121216,-0.001101929
+Rhode Island,Rhode Island,Newport,Warwick,27,45,6,0.001136364,4.21E-05
+Rhode Island,Rhode Island,Newport,Woonsocket,48,50.53,-171,-0.032386374,-0.000674716
+Rhode Island,Rhode Island,Newport,Westerly,39,48.75,-10,-0.00189394,-4.86E-05
+Rhode Island,Rhode Island,Warwick,Providence,12,40,10,0.00189394,0.000157828
+Rhode Island,Rhode Island,Warwick,North Kingstown,17,40.8,-62,-0.011742428,-0.000690731
+Rhode Island,Rhode Island,Warwick,Newport,27,43.78,-6,-0.001136364,-4.21E-05
+Rhode Island,Rhode Island,Warwick,Woonsocket,26,44.57,-177,-0.033522738,-0.001289336
+Rhode Island,Rhode Island,Warwick,Westerly,38,53.02,-16,-0.003030304,-7.97E-05
+Rhode Island,Rhode Island,Woonsocket,Providence,15,47.37,187,0.035416678,0.002361112
+Rhode Island,Rhode Island,Woonsocket,North Kingstown,37,49.33,115,0.02178031,0.000588657
+Rhode Island,Rhode Island,Woonsocket,Newport,47,49.47,171,0.032386374,0.000689072
+Rhode Island,Rhode Island,Woonsocket,Warwick,27,46.28,177,0.033522738,0.001241583
+Rhode Island,Rhode Island,Woonsocket,Westerly,58,56.13,161,0.030492434,0.000525732
+Rhode Island,Rhode Island,Westerly,Providence,44,56.17,26,0.004924244,0.000111915
+Rhode Island,Rhode Island,Westerly,North Kingstown,31,47.69,-46,-0.008712124,-0.000281036
+Rhode Island,Rhode Island,Westerly,Newport,38,48.51,10,0.00189394,4.98E-05
+Rhode Island,Rhode Island,Westerly,Warwick,37,52.86,16,0.003030304,8.19E-05
+Rhode Island,Rhode Island,Westerly,Woonsocket,59,56.19,-161,-0.030492434,-0.000516821
+Maryland,Maryland,Baltimore,Annapolis,32.4,55.5,-15,-0.00284091,-8.77E-05
+Maryland,Maryland,Baltimore,Ocean City,146.9,56.5,14,0.002651516,1.80E-05
+Maryland,Maryland,Baltimore,Frederick,48.8,57.41,-278,-0.052651532,-0.001078925
+Maryland,Maryland,Baltimore,Silver Spring,33.7,59.52,-319,-0.060416686,-0.00179278
+Maryland,Maryland,Baltimore,Rockville,39.6,52.8,-422,-0.079924268,-0.00201829
+Maryland,Maryland,Baltimore,Hagerstown,74.4,58.73,-529,-0.100189426,-0.001346632
+Maryland,Maryland,Baltimore,Towson,14.6,39.81,-393,-0.074431842,-0.005098071
+Maryland,Maryland,Annapolis,Baltimore,32.8,48,15,0.00284091,8.66E-05
+Maryland,Maryland,Annapolis,Ocean City,118,54.46,29,0.005492426,4.65E-05
+Maryland,Maryland,Annapolis,Frederick,69.2,56.87,-263,-0.049810622,-0.000719807
+Maryland,Maryland,Annapolis,Silver Spring,35.2,50.28,-304,-0.057575776,-0.001635675
+Maryland,Maryland,Annapolis,Rockville,44.9,54.97,-407,-0.077083358,-0.001716779
+Maryland,Maryland,Annapolis,Hagerstown,94.8,58.04,-514,-0.097348516,-0.001026883
+Maryland,Maryland,Annapolis,Towson,45,48.21,-378,-0.071590932,-0.00159091
+Maryland,Maryland,Ocean City,Baltimore,146.1,57.29,-14,-0.002651516,-1.81E-05
+Maryland,Maryland,Ocean City,Annapolis,117.5,57.31,-29,-0.005492426,-4.67E-05
+Maryland,Maryland,Ocean City,Frederick,182.5,59.51,-292,-0.055303048,-0.00030303
+Maryland,Maryland,Ocean City,Silver Spring,148.5,58.61,-333,-0.063068202,-0.000424702
+Maryland,Maryland,Ocean City,Rockville,158.2,59.32,-436,-0.082575784,-0.000521971
+Maryland,Maryland,Ocean City,Hagerstown,208.1,57.27,-500,-0.094697,-0.000455055
+Maryland,Maryland,Ocean City,Towson,158.3,53.96,-378,-0.071590932,-0.000452248
+Maryland,Maryland,Frederick,Baltimore,50.2,52.84,278,0.052651532,0.001048835
+Maryland,Maryland,Frederick,Ocean City,183.7,57.1,292,0.055303048,0.000301051
+Maryland,Maryland,Frederick,Silver Spring,41.7,50.04,-41,-0.007765154,-0.000186215
+Maryland,Maryland,Frederick,Annapolis,69.2,31.45,263,0.049810622,0.000719807
+Maryland,Maryland,Frederick,Hagerstown,26.8,47.29,-251,-0.047537894,-0.001773802
+Maryland,Maryland,Frederick,Towson,53.7,54.61,-115,-0.02178031,-0.000405592
+Maryland,Maryland,Hagerstown,Baltimore,75.3,57.18,529,0.100189426,0.001330537
+Maryland,Maryland,Hagerstown,Annapolis,94.3,60.83,514,0.097348516,0.001032328
+Maryland,Maryland,Hagerstown,Ocean City,208.8,56.43,543,0.102840942,0.000492533
+Maryland,Maryland,Hagerstown,Frederick,27.6,47.31,251,0.047537894,0.001722387
+Maryland,Maryland,Hagerstown,Silver Spring,64.7,50.41,210,0.03977274,0.000614726
+Maryland,Maryland,Hagerstown,Rockville,52.5,55.26,107,0.020265158,0.000386003
+Maryland,Maryland,Hagerstown,Towson,78.8,58.37,136,0.025757584,0.000326873
+Maryland,Maryland,Towson,Baltimore,14.4,45.47,393,0.074431842,0.005168878
+Maryland,Maryland,Towson,Annapolis,44.4,54.36,378,0.071590932,0.001612408
+Maryland,Maryland,Towson,Ocean City,158.8,54.44,407,0.077083358,0.000485412
+Maryland,Maryland,Towson,Frederick,52.1,54.84,115,0.02178031,0.000418048
+Maryland,Maryland,Towson,Rockville,49.7,47.33,-29,-0.005492426,-0.000110512
+Maryland,Maryland,Towson,Silver Spring,51,55.63,74,0.014015156,0.000274807
+Washington,Washington,Washington DC,Baltimore,38.5,43.58,-2,-0.000378788,-9.84E-06
+Washington,Washington,Washington DC,Annapolis,31.7,45.28,-17,-0.003219698,-0.000101568
+Washington,Washington,Washington DC,Ocean City,146.2,54.14,2,0.000378788,2.59E-06
+Washington,Washington,Washington DC,Frederick,45.5,47.89,-280,-0.05303032,-0.001165502
+Washington,Washington,Washington DC,Silver Spring,6.1,19.26,-321,-0.060795474,-0.009966471
+Washington,Washington,Washington DC,Rockville,17.7,36.62,-424,-0.080303056,-0.004536896
+Washington,Washington,Washington DC,Hagerstown,68.6,49.5,-531,-0.100568214,-0.001466009
+Washington,Washington,Washington DC,Towson,55.4,42.61,-395,-0.07481063,-0.001350372
+Florida,Georgia,Jacksonville,Savannah,139,62.7,119,0.022537886,0.000162143
+Florida,Georgia,Jacksonville,Macon,270,67.5,-252,-0.047727288,-0.000176768
+Georgia,South Carolina,Athens,Greenville,101,57.71,-187,-0.035416678,-0.00035066
+Georgia,South Carolina,Athens,Columbia,174,61.05,471,0.089204574,0.00051267
+Georgia,South Carolina,Athens,Clemson,80,55.81,-90,-0.01704546,-0.000213068
+Georgia,South Carolina,Augusta,Columbia,75,62.5,134,0.025378796,0.000338384
+Georgia,South Carolina,Augusta,Sumter,119,57.58,180,0.03409092,0.000286478
+Georgia,North Carolina,Atlanta,Asheville,197,57.94,-1066,-0.201894004,-0.001024843
+South Carolina,North Carolina,Myrtle Beach,Wilmington,72,51.42,-17,-0.003219698,-4.47E-05
+South Carolina,North Carolina,Greenville,Charlotte,102,60.51,364,0.068939416,0.000675877
+South Carolina,North Carolina,Greenville,Asheville,62,53.91,-1208,-0.228787952,-0.003690128
+South Carolina,North Carolina,Spartanburg,Charlotte,74,57.66,160,0.03030304,0.000409501
+North Carolina,Virginia,Greensboro,Richmond,202,64.12,575,0.10890155,0.000539117
+North Carolina,Virginia,Durham,Richmond,150,64.74,59,0.011174246,7.45E-05
+North Carolina,Virginia,Durham,Virginia Beach,201,57.15,272,0.051515168,0.000256294
+North Carolina,Virginia,Durham,Hampton,218,64.43,319,0.060416686,0.000277141
+North Carolina,Virginia,Durham,Williamsburg,192,64,233,0.044128802,0.000229838
+North Carolina,Virginia,Raleigh,Hampton,195,60,322,0.060984868,0.000312743
+North Carolina,Virginia,Raleigh,Virginia Beach,200,59.4,275,0.05208335,0.000260417
+North Carolina,Virginia,Raleigh,Williamsburg,205,65.68,236,0.044696984,0.000218034
+Georgia,Florida,Savannah,Jacksonville,139,61.32,-119,-0.022537886,-0.000162143
+Georgia,Florida,Macon,Jacksonville,269,67.53,252,0.047727288,0.000177425
+South Carolina,Georgia,Greenville,Athens,101,57.71,187,0.035416678,0.00035066
+South Carolina,Georgia,Columbia,Athens,178,62.09,-493,-0.093371242,-0.000524558
+South Carolina,Georgia,Clemson,Athens,79,55.11,90,0.01704546,0.000215765
+South Carolina,Georgia,Columbia,Augusta,77,62.43,-134,-0.025378796,-0.000329595
+South Carolina,Georgia,Sumter,Augusta,121,57.61,-180,-0.03409092,-0.000281743
+North Carolina,Georgia,Asheville,Atlanta,198,57.95,1066,0.201894004,0.001019667
+North Carolina,South Carolina,Wilmington,Myrtle Beach,72,50.82,17,0.003219698,4.47E-05
+North Carolina,South Carolina,Charlotte,Greenville,102,59.41,-364,-0.068939416,-0.000675877
+North Carolina,South Carolina,Asheville,Greenville,63,54.78,1208,0.228787952,0.003631555
+North Carolina,South Carolina,Charlotte,Spartanburg,75,58.44,-160,-0.03030304,-0.000404041
+West Virginia,Maryland,Martinsburg,Hagerstown,22.9,50.88,-94,-0.017803036,-0.000777425
+Maryland,West Virginia,Hagerstown,Martinsburg,23.7,50.78,94,0.017803036,0.000751183
+West Virginia,Virginia,Martinsburg,Fredericksburg,104.8,51.54,395,0.07481063,0.000713842
+Virginia,West Virginia,Fredericksburg,Martinsburg,103.9,50.68,-395,-0.07481063,-0.000720025
+Washington DC,Maryland,Washington,Annapolis,31.7,38.04,-17,-0.003219698,-0.000101568
+Maryland,Washington DC,Annapolis,Washintgton,32.2,35.77,17,0.003219698,1.00E-04
+Washington DC,Virginia,Washington,Fredericksburg,53.1,37.92,-42,-0.007954548,-0.000149803
+Virginia,Washington DC,Fredericksburg,Washington,52.3,42.4,42,0.007954548,0.000152095
+West Virginia,Washington DC,Martinsburg,Washington,77.7,48.5,437,0.082765178,0.001065189
+Washington DC,West Virginia,Washington,Martinsburg,89.2,52.4,-437,-0.082765178,-0.000927861
+Pennsylvania,Maryland,Philadelphia,Towson,100.3,57.31,-369,-0.069886386,-0.000696774
+Maryland,Pennsylvania,Towson,Philadelphia,100.8,61.09,369,0.069886386,0.000693317
+Pennsylvania,West Virginia,Pittsburgh,Martinsburg,189.2,61.69,320,0.06060608,0.000320328
+West Virginia,Pennsylvania,Martinsburg,Pittsburgh,189,63,-320,-0.06060608,-0.000320667
+New Hampshire,Vermont,Concord,Barre,114,65.14,-488,-0.092424272,-0.000810739
+New Hampshire,Vermont,Concord,Montpelier,116,66.28,-287,-0.054356078,-0.000468587
+New Hampshire,Vermont,Concord,Rutland,106,54.35,-207,-0.039204558,-0.000369854
+New Hampshire,Vermont,Keene,Barre,112,61.09,-336,-0.063636384,-0.000568182
+New Hampshire,Vermont,Keene,Montpelier,114,63.27,-135,-0.02556819,-0.000224282
+New Hampshire,Vermont,Keene,Rutland,72,46.95,-55,-0.01041667,-0.000144676
+Massachusetts,Vermont,Fitchburg,Rutland,109,45.1,17,0.003219698,2.95E-05
+Massachusetts,Vermont,Leominster,Rutland,117,46.49,-104,-0.019696976,-0.00016835
+New Hampshire,Maine,Portsmouth,Portland,52,62.4,-7,-0.001325758,-2.55E-05
+Massachusetts,New Hampshire,Fitchburg,nashua,25,34.88,410,0.07765154,0.003106062
+Massachusetts,New Hampshire,Leominster,nashua,28,34.28,289,0.054734866,0.001954817
+Massachusetts,New Hampshire,Pepperell,nashua,12,32.72,126,0.023863644,0.001988637
+Vermont,New Hampshire,Barre,Concord,115,62.72,488,0.092424272,0.000803689
+Vermont,New Hampshire,Montpelier,Concord,117,65,287,0.054356078,0.000464582
+Vermont,New Hampshire,Rutland,Concord,106,2,207,0.039204558,0.000369854
+Vermont,New Hampshire,Barre,Keene,113,2,336,0.063636384,0.000563154
+Vermont,New Hampshire,Montpelier,Keene,115,2,135,0.02556819,0.000222332
+Vermont,New Hampshire,Rutland,Keene,72,1.5,55,0.01041667,0.000144676
+Vermont,Massachusetts,Rutland,Fitchburg,110,45.83,-17,-0.003219698,-2.93E-05
+Vermont,Massachusetts,Rutland,Leominster,117,46.49,104,0.019696976,0.00016835
+New Hampshire,Maine,Portland,Rochester,50,46.87,-179,-0.033901526,-0.000678031
+New Hampshire,Maine,Portland,Portsmouth,52,61.17,7,0.001325758,2.55E-05
+New Hampshire,Massachusetts,nashua,Fitchburg,25,35.71,-410,-0.07765154,-0.003106062
+New Hampshire,Massachusetts,nashua,Leominster,28,35,-289,-0.054734866,-0.001954817
+New Hampshire,Massachusetts,nashua,Pepperell,12,37.89,-126,-0.023863644,-0.001988637
+Massachusetts,Rhode Island,Chicopee,Woonsocket,71,59.16,-15,-0.00284091,-4.00E-05
+Rhode Island,Massachusetts,Woonsocket,Chicopee,71,58.35,15,0.00284091,4.00E-05
+Connecticut,Massachusetts,Hartford,Chicopee,30,60,-156,-0.029545464,-0.000984849
+Massachusetts,Connecticut,Chicopee,Hartford,31,60,156,0.029545464,0.000953079
+Ohio,Michigan,Toledo,Detroit,59,59,-18,-0.003409092,-5.78E-05
+Ohio,Michigan,Toledo,Ann Arbor,54,58.064516,-260,-0.04924244,-0.000911897
+Ohio,Indiana,Toledo,Fortwayne,103,63.580247,-203,-0.038446982,-0.000373272
+Ohio,Indiana,Toledo,Southbend,156,65,-129,-0.024431826,-0.000156614
+Ohio,Indiana,Cincinnati,Fortwayne,179,59.666667,-306,-0.057954564,-0.000323769
+Ohio,Kentucky,Cincinnati,Frankfort,79,51.973684,-176,-0.033333344,-0.000421941
+Ohio,Kentucky,Cincinnati,Louisville,100,58.139535,-46,-0.008712124,-8.71E-05
+Ohio,Kentucky,Cincinnati,La Grange,76,63.333333,-272,-0.051515168,-0.000677831
+Ohio,West Virginia,Columbus,Charleston,163,63.178295,-96,-0.018181824,-0.000111545
+Ohio,West Virginia,Columbus,Vienna,113,59.473684,58,0.010984852,9.72E-05
+Ohio,Pennsylvania,Akron,Pittsburg,111,63.428571,180,0.03409092,0.000307125
+Ohio,Pennsylvania,Akron,Erie,126,64.615385,259,0.049053046,0.00038931
+Ohio,Indiana,Dayton,Fortwayne,126,56.25,26,0.004924244,3.91E-05
+Ohio,Pennsylvania,Cleveland,Pittsburg,134,64.423077,-173,-0.032765162,-0.000244516
+Ohio,Pennsylvania,Cleveland,Erie,103,63.580247,-94,-0.017803036,-0.000172845
+Kentucky,Ohio,Louisville,Cincinnati,99,58.235294,46,0.008712124,8.80E-05
+Kentucky,Indiana,Louisville,Evansville,130,63.72549,185,0.03503789,0.000269522
+Kentucky,Ohio,Frankfort,Cincinnati,79,52.666667,176,0.033333344,0.000421941
+Kentucky,West Virginia,Frankfort,Charleston,197,65.666667,-229,-0.043371226,-0.000220159
+Kentucky,Ohio,La Grange,Cincinnati,76,63.333333,272,0.051515168,0.000677831
+Kentucky,West Virginia,La Grange,Charleston,239,64.594595,-133,-0.025189402,-0.000105395
+Kentucky,Indiana,La Grange,Evansville,146,67.906977,411,0.077840934,0.000533157
+Michigan,Ohio,Detroit,Toledo,59,62.105263,18,0.003409092,5.78E-05
+Michigan,Indiana,Detroit,Fortwayne,162,63.529412,-185,-0.03503789,-0.000216283
+Michigan,Indiana,Detroit,Southbend,211,63.939394,-111,-0.021022734,-9.96E-05
+Michigan,Indiana,Ann Arbor,Southbend,169,61.454545,131,0.024810614,0.000146808
+Michigan,Indiana,Ann Arbor,Fortwayne,141,61.304348,57,0.010795458,7.66E-05
+Indiana,Ohio,Fortwayne,Toledo,102,63.75,203,0.038446982,0.000376931
+Indiana,Ohio,Fortwayne,Dayton,127,57.207207,-26,-0.004924244,-3.88E-05
+Indiana,Michigan,Southbend,Ann Arbor,178,64.028777,-131,-0.024810614,-0.000139385
+Indiana,Michigan,Southbend,Detroit,217,63.823529,111,0.021022734,9.69E-05
+Indiana,Kentucky,Evansville,Louisville,127,65.463918,-185,-0.03503789,-0.000275889
+Indiana,Kentucky,Evansville,La Grange,144,66.666667,-411,-0.077840934,-0.000540562
+New York,New Jersey,New York City,Newark,17,22.67,-28,-0.005303032,-0.000311943
+New York,Connecticut,New York City,Stamford,40,42.11,-5,-0.00094697,-2.37E-05
+Connecticut,Rhode Island,Hartford,Providence,73,48.66666667,-17,-0.003219698,-4.41E-05
+Delaware,New Jersey,Wilmington,Trenton,61,58.65384615,101,0.019128794,0.000313587
+New Jersey,New York,Newark,New York City,11,22,28,0.005303032,0.000482094
+Connecticut,New York,Stamford,New York City,41,40.19607843,5,0.00094697,2.31E-05
+Rhode Island,Connecticut,Providence,Hartford,73,48.66666667,17,0.003219698,4.41E-05
+New Jersey,Delaware,Trenton,Wilmington,62,60.19417476,-101,-0.019128794,-0.000308529
+Delaware,New Jersey,Wilmington,Trenton,61,59.22330097,101,0.019128794,0.000313587
+New Jersey,Pennsylvania,Camden,Philadelphia,5.1,25.5,-1,-0.000189394,-3.71E-05
+New Jersey,Pennsylvania,Trenton,Philadelphia,33,62.26415094,0,0,0
+Massachusetts,Rhode Island,Chicopee,Woonsocket,71,59.16666667,-15,-0.00284091,-4.00E-05
+Rhode Island,Massachusetts,Woonsocket,Chicopee,71,59.16666667,15,0.00284091,4.00E-05
+Massachusetts,New York,West Springfield,Troy,88.4,59.72972973,32,0.006060608,6.86E-05
+New York,Massachusetts,Troy,West Springfield,88,60.2739726,-32,-0.006060608,-6.89E-05
+Kentucky,Virginia,Lexington,Fredrickburg,487,60.875,913,0.172916722,0.000355065
+Maine,New Hampshire,Portland,Portmouth,52,60,7,0.001325758,2.55E-05
+Vermont,New York,Rutland,Troy,85,47,433,0.082007602,0.000964795
+New York,New Jersey,New York City,Newark,17,22.67,-28,-0.005303032,-0.000311943
+New York,Connecticut,New York City,Stamford,40,42.11,-5,-0.00094697,-2.37E-05
+New York,Massachusetts,Troy,West Springfield,88,60.2739726,-32,-0.006060608,-6.89E-05
+New York,Pennsylvania,Buffalo,Erie,92.8,59.10828025,-47,-0.008901518,-9.59E-05
+New York,Pennsylvania,New York City,Allentown,91.1,44.87684729,-194,-0.036742436,-0.00040332
+New York,Vermont,Rutland,Troy,84.4,48.22857143,433,0.082007602,0.000971654
+New Jersey,Pennsylvania,Camden,Philadelphia,5.1,25.5,-1,-0.000189394,-3.71E-05
+New Jersey,Pennsylvania,Trenton,Philadelphia,33,62.26415094,0,0,0
+New Jersey,Delaware,Trenton,Wilmington,62,60.19417476,-101,-0.019128794,-0.000308529
+New Jersey,New York,Newark,New York City,11,22,28,0.005303032,0.000482094
+Delaware,New Jersey,Wilmington,Trenton,61,59.22330097,101,0.019128794,0.000313587
+Delaware,Maryland,Frankford,Ocean City,21.8,43.6,57,0.010795458,0.000495204
+Delaware,Pennsylvania,Wilmington,Philadelphia,31.2,33.19148936,-1,-0.000189394,-6.07E-06
+Connecticut,Rhode Island,Hartford,Providence,73,48.66666667,-17,-0.003219698,-4.41E-05
+Connecticut,Massachusetts,Hartford,Chicopee,30,60,-156,-0.029545464,-0.000984849
+Connecticut,New York,Stamford,New York City,41,40.19607843,5,0.00094697,2.31E-05
+Rhode Island,Connecticut,Providence,Hartford,73,48.66666667,17,0.003219698,4.41E-05
+Rhode Island,Massachusetts,Woonsocket,Chicopee,71,59.16666667,15,0.00284091,4.00E-05
+Massachusetts,Massachusetts,Boston,Pepperell,44.4,52.2,-212,-0.040151528,-0.000904314
+Massachusetts,Massachusetts,Boston,Fitchburg,47,47.7,-496,-0.093939424,-0.001998711
+Massachusetts,Massachusetts,Boston,Leominster,43,47.7,-375,-0.07102275,-0.001651692
+Massachusetts,Massachusetts,Boston,Amherst,93.8,53.6,-74,-0.014015156,-0.000149415
+Massachusetts,Massachusetts,Boston,Chicopee,90,61.3,-113,-0.021401522,-0.000237795
+Massachusetts,Massachusetts,Boston,West Springfield,91.6,61.7,-78,-0.014772732,-0.000161274
+Massachusetts,Rhode Island,Boston,Providence,51,47,26,0.004924244,9.65538E-05
+Massachusetts,Connecticut,Boston,Hartford,100,57.69,43,0.008143942,8.14394E-05
+Massachusetts,New Hampshire,Boston,Nashua,45.7,56.25,-86,-0.016287884,-0.000356409
